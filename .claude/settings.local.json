@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wsl -- bash:*)",
+      "Bash(wsl pwd:*)",
+      "Bash(wsl python3:*)",
+      "Bash(wsl bash -c \"cd celivion && nohup python3 -m http.server 8080 > server.log 2>&1 &\")",
+      "Bash(wsl ps:*)",
+      "Bash(wsl bash -c \"cd celivion && python3 -m http.server 8080 &\")",
+      "Bash(wsl netstat:*)",
+      "Bash(wsl curl -sL https://celivionlongevity.com/)",
+      "Bash(curl -sL https://celivionlongevity.com/)",
+      "Bash(curl:*)",
+      "Bash(wsl pkill:*)",
+      "Bash(nslookup:*)",
+      "Bash(dig:*)",
+      "Bash(python3:*)"
+    ]
+  }
+}

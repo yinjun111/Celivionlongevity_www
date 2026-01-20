@@ -1,0 +1,10 @@
+wsl: Processing /etc/fstab with mount -a failed.
+127.0.0.1 - - [19/Jan/2026 20:51:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [19/Jan/2026 20:51:47] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [19/Jan/2026 20:51:47] "GET /script.js HTTP/1.1" 200 -
+127.0.0.1 - - [19/Jan/2026 20:51:47] code 404, message File not found
+127.0.0.1 - - [19/Jan/2026 20:51:47] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [19/Jan/2026 20:51:57] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [19/Jan/2026 20:51:57] "GET /styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [19/Jan/2026 20:51:57] "GET /script.js HTTP/1.1" 304 -
+127.0.0.1 - - [19/Jan/2026 20:52:06] "GET / HTTP/1.1" 304 -
